@@ -32,6 +32,6 @@ This repository is intended for educational use.
 ## Author
 
 - Augusto Mate
-- [GitHub](https://github.com/Augusto047)
+- [GitHub](https://github.com/augusto-mate)
 - mate.augusto.mz@gmail.com
   
